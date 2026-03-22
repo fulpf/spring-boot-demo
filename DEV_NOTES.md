@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Cleaned up old debug logs
 - Added .editorconfig for consistent formatting
+
+## 2026-03-22
+- Ran linter, applied auto-fixes
+- Noted known limitation in docs
